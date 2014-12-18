@@ -11,6 +11,6 @@
 @property (nonatomic, assign) NSInteger livingNeighbors;
 
 - (id)initCreature;
-
+    
 
 @end
