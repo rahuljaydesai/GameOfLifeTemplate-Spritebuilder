@@ -12,5 +12,5 @@
 
 - (id)initCreature;
 
-}
+
 @end
